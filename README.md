@@ -26,9 +26,4 @@ if You are a student interested in **Robotics** and **Poetry**. Just upload an e
 
 ---
 
-## 🛠️ How to Run Locally
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/your
 
