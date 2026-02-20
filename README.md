@@ -24,9 +24,6 @@ if You are a student interested in **Robotics** and **Poetry**. Just upload an e
 - Predict the category for each event
 - Recommend only those events that match your interests
 
-## 🚀 Live Demo  
-[Click here to use the Smart Club Classifier]([https://your-app-url.streamlit.app](https://smart-club-classifier-ymfegygaffdscakhxdrzmm.streamlit.app/)
-
 
 ---
 
